@@ -10,21 +10,21 @@ git clone https://github.com/kharvisujith/Assessment-ServerSidePagination-Filter
   `npm install`
   
  # Install dependencies for the Express application
-  cd apiServer.
-  npm install.
+  `cd apiServer`
+  `npm install`
 
  # Start the React development server
-  cd dashboard.
-  npm start.
+  `cd dashboard`
+  `npm start`
 
  # Start the Express server
-  cd apiServer.
-  npm run dev.
+  `cd apiServer`
+  `npm run dev`
 
 
 # Access application : 
-  React Applicaton : http://localhost:3000/  .
-  apiServer : http://localhost:5000/  .
+  `React Applicaton : http://localhost:3000/ ` 
+  `apiServer : http://localhost:5000/  `
 
 # Endpoints for Api : 
   get Student details  : http://localhost:5000/api/students.
