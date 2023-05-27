@@ -27,7 +27,7 @@ git clone https://github.com/kharvisujith/Assessment-ServerSidePagination-Filter
   `apiServer : http://localhost:5000/  `
 
 # Endpoints for Api : 
-  get Student details  : http://localhost:5000/api/students.
+  `get Student details  : http://localhost:5000/api/students`
   It accepts query params for server side pagination and filtering as well : http://localhost:5000/api/students?pageNumber=0&limit=10&name=suj&studentId=AL10.
   
 # Note : 
