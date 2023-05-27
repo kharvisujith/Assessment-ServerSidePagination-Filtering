@@ -1,0 +1,41 @@
+/* .MuiTableCell-root {
+  background-color: red !important;
+  padding: 1rem !important;
+} */
+
+.students-table-box {
+  .table-labels-container {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 2rem;
+  }
+  .MuiTableCell-root {
+    padding: 0.5rem !important;
+  }
+  .MuiTableCell-head {
+    background-color: lightslategrey;
+  }
+  .paper-container {
+    margin: 3rem;
+    padding: 2rem;
+  }
+
+  .table-container {
+    max-height: 60vh;
+    min-height: 15vh;
+  }
+}
+
+.popover-container {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  gap: 0.5rem;
+}
+
+.laoder-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
