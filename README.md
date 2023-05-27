@@ -6,8 +6,8 @@ git clone https://github.com/kharvisujith/Assessment-ServerSidePagination-Filter
 
 
   # Install dependencies for the React application
-  cd dashboard.
-  npm install.
+  `cd dashboard`
+  `npm install`
   
  # Install dependencies for the Express application
   cd apiServer.
