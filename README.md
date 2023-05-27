@@ -27,11 +27,11 @@ git clone https://github.com/kharvisujith/Assessment-ServerSidePagination-Filter
   `apiServer : http://localhost:5000/  `
 
 # Endpoints for Api : 
-  get Student details  : http://localhost:5000/api/students  
+  Fetch Student details  : http://localhost:5000/api/students  
   It accepts query params for server side pagination and filtering as well : http://localhost:5000/api/students?pageNumber=0&limit=10&name=suj&studentId=AL10.
   
 # Note : 
-*The pageNumber starts from index 0. (Default pagination for mui TablePagination starts from 0. So In order to keep in align our client and server I have used 0 as the starting page number) <br/>
+*The pageNumber starts from index 0. (Default pagination for mui TablePagination starts from 0. So In order to keep in align our client and server I have used 0 as the starting page number)  
 *Multiple Column filter and pagination fromt the ui is also intergrated.
 
 
